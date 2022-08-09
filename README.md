@@ -1,6 +1,8 @@
 # Native-Speech-Recognition
 
 
-A simple Speech Recognition project which uses vanilla JavaScript to take voice input and type out texts. 
+A simple Native Speech Recognition project which uses vanilla JavaScript to take voice input and type out texts. 
+It uses SpeechRecoginition interface of WebSpeech API. It is a global variable that lives in the browser. Currently, it's available in Chrome only and we can access it at WebSpeech Kit.
+
 
 Feel free to try this, hillarious results are expected :-D
